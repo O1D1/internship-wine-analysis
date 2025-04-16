@@ -1,4 +1,4 @@
-# Kaufland Wine Quality Analysis 
+#  Wine Quality Analysis 
 
 Dieses Projekt analysiert physikalisch-chemische Eigenschaften von Rotweinen mithilfe von Machine Learning (Random Forest), um Einflussfaktoren auf die Weinqualität zu identifizieren.
 
