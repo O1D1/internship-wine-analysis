@@ -10,4 +10,5 @@ Dieses Projekt analysiert physikalisch-chemische Eigenschaften von Rotweinen mit
 
 ## Anforderungen
 - Python 3.x
-- pandas, seaborn, matplotlib, scikit-learn
+- pandas, seaborn, matplotlib, scikit-learn#
+
